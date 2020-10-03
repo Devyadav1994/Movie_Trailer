@@ -2,7 +2,7 @@
 
 This is the first project in [full stack web developer nanodegree. ](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)It creates a web page to show my favorite movies along with their trailer.
 
-## Usage
+## Use
 
 run entertainment_center.py file either from python IDLE or form terminal
 ``` bash
